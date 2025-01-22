@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Bhupal's D2D",
+    "version": "1.0",
+    "description": "A simple extension to load a URL in the Chrome side panel.",
+    "permissions": ["sidePanel"],
+    "background": {
+     "service_worker": "service-worker.js"
+    },
+    "action": {
+        "default_title": "Open Side Panel"
+    },
+     "side_panel": {
+        "default_path": "sidepanel.html"
+    },
+    "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    }
+  }
+  
