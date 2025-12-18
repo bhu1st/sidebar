@@ -1,4 +1,4 @@
-# Google Chrome Sidpbar Extension 
+# Google Chrome Sidebar Extension 
 
 ### Installation Instructions
 
